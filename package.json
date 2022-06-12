@@ -1,0 +1,17 @@
+{
+  "name": "flatqube-interaction",
+  "version": "0.0.1",
+  "description": "",  
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": ["everscale","flatqube"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
